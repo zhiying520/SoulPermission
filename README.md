@@ -19,7 +19,7 @@ dependencies {
 [1.1.7 ReleaseNote](http://note.youdao.com/noteshare?id=bd3c7ebfdccb67bb509205be776bd9f2)
 ## Usage：
 
-#### 基本用法：
+#### 用法：
 - 一句话版本完成自动判断、权限检查、请求、后续操作：
 ```java
   SoulPermission.getInstance().checkAndRequestPermission(Manifest.permission.ACCESS_FINE_LOCATION,
